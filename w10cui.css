@@ -1,0 +1,207 @@
+div{
+    width: 210px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+td{
+    border: 1px solid grey;
+}
+
+#t4display{
+    height:50px;
+    text-align:right;
+    font-size:xx-large;
+    border: 1px solid #f2f5f7;
+}
+
+#t4c{
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+    border-color: rgb(177, 174, 174);
+}
+
+#t4c:hover{
+    background-color:rgb(239, 232, 232);
+    transition-duration:0.2s;
+}
+
+#t4menupanel{
+    height:25px;
+    text-align: left;
+    padding-left: 5px;
+    border: 1px solid #f2f5f7;
+}
+
+.fa-solid.fa-bars{
+    padding-right: 8px;
+    padding-left: 2px;
+}
+
+#t4titlepanel{
+    height:20px;
+    padding-right: 5px;
+    text-align: right;
+    border: 1px solid #f2f5f7;
+}
+
+#t4titlepanelview{
+    height:20px;
+    padding-left: 6px;
+    border: 1px solid #f2f5f7;
+}
+
+.fa-regular.fa-window-minimize{
+    margin-left: 1px;
+}
+
+.fa-light.fa-x{
+    padding-top: 2px;
+}
+
+.fa-regular.fa-square-full{
+    padding-top: 2px;
+}
+
+.btn-close{
+    padding-top: 2px;
+    left: 192px;
+    position: absolute;
+}
+
+.btn-maximize{
+    margin-left: 4px;
+}
+
+.btn-minimize{
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+button{
+    background-color: #f2f5f7;
+    border:1px solid #f2f5f7;
+}
+
+.btn-close:hover{
+    background-color:red;
+    color:white;
+    transition-duration: 0.4s;
+}
+
+.btn-minimize:hover, .btn-maximize:hover{
+    background-color:grey;
+    color:white;
+    transition-duration: 0.4s;
+}
+
+#t4A, #t4B, #t4C{
+    background-color:#f2f5f7;
+    border: 1px solid rgb(9, 139, 232);
+}
+
+.n7,.n8,.n9,
+.n4,.n5,.n6,
+.n1,.n2,.n3,
+.pm,.n0,.ndot{
+    background-color:white;
+}
+
+#t4ce{
+    background-color:#005a9e;
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+}
+
+#t4ce:hover{
+    background-color:#0378d2;
+    transition-duration:0.2s;
+}
+
+.z > #t4c{
+    font-size:10px;
+}
+
+#t4B, #t4C{
+    width: 210px;
+}
+
+#t4B{
+    font-size: 10px;
+    border-spacing: 5px;
+    word-spacing: 9px;
+    border-right: 1px solid rgb(9, 139, 232);
+    border-left: 1px solid rgb(9, 139, 232);
+    border-bottom: 1px solid #f2f5f7;
+    border-top: 1px solid #f2f5f7;
+}
+
+#t4C{
+    border-top: 1px solid #f2f5f7;
+}
+
+#t4A{
+    border-bottom: 1px solid #f2f5f7;
+    width: 210px;
+}
+
+#t4B #t4c{
+    border: 1px solid #f2f5f7;
+}
+
+.btn-history{
+    position: absolute;
+    left:185px;
+}
+
+.btn-history:hover{
+    background-color:rgb(227, 222, 222);
+    transition-duration: 0.4s;
+}
+
+.btn-bars{
+    padding-right: 1px;
+    padding-left: 2px;
+    width:22px;
+    align-items: center;
+}
+
+.btn-bars:hover{
+    background-color: grey;
+    transition-duration: 0.4s;
+}
+.btn-keepOnTopArrow{
+    padding-right: 1px;
+    padding-left: 2px;
+    position:absolute;
+    left: 105px;
+}
+
+.btn-keepOnTopArrow:hover{
+    background-color: grey;
+    transition-duration: 0.4s;
+}
+
+.fa-solid.fa-calculator{
+    position: absolute;
+    left: 20px;
+}
+
+#t4cmc-mr, #t4cmplus-mmin, #t4cms-mv{
+    border: 1px solid #f2f5f7;
+}
+
+.mc, .mr, .mplus, .mmin, .mv, .ms{
+    font-size: 10px;
+}
+
+.mc, .mr, .mv{
+    color: grey;
+}
+
+.mplus:hover, .mmin:hover, .ms:hover{
+    background-color: rgb(177, 174, 174);
+    transition-duration: 0.2s;
+}
